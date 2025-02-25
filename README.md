@@ -1,10 +1,10 @@
 ## Ethical Hacker
 
-**Hi** I'm **Mohammed Swalih**, an Ethical Hacker and Cyber Security Analyst with expertise in Vulnerability Assessment and Pentesting.
+**Hi,** I'm **Mohammed Swalih**, an Ethical Hacker and Cyber Security Analyst with expertise in Vulnerability Assessment and Pentesting.
 
 ## Education
-- BCA ||| University of Calicut (_March 2020_)
-- Intermediate || NSS Higher Secondary School (_March_2017_)
+- BCA | University of Calicut (_March 2020_)
+- Intermediate | NSS Higher Secondary School (_March_2017_)
 - Matriculation | Rahmath Public School (_March 2015_)
 
 ## Work Experience
