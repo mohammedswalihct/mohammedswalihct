@@ -1,7 +1,6 @@
-# Ethical Hacker
+## Ethical Hacker
 
-### Technical Skills:
-Networking, Linux, Python, SQL, Malware Prevention and Detection, Encryption, Management of Cloud Systems.
+I'm **Mohammed Swalih**, an Ethical Hacker and Cyber Security Analyst With expertise in Vulnerability Assessment and Pentesting.
 
 ## Education
 - BCA ||| University of Calicut (_March 2020_)
