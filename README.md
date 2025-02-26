@@ -19,9 +19,9 @@
 **Hi,** I'm an Ethical Hacker and Cyber Security Analyst with expertise in Vulnerability Assessment and Pentesting.
 
 ## Education
-- BCA | University of Calicut (_March 2020_)
-- Intermediate | NSS Higher Secondary School (_March 2017_)
-- Matriculation | Rahmath Public School (_March 2015_)
+- Bachelor of Computer Application | University of Calicut (_March 2020_)
+- Higher Secondary Education | NSS Higher Secondary School (_March 2017_)
+- High School Education | Rahmath Public School (_March 2015_)
 
 ## Work Experience
 Cyber Security Intern @ Infocom
