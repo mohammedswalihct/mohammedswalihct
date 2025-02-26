@@ -28,6 +28,7 @@ Cyber Security Intern @ Infocom
 <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" width="60" height="40" />
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" width="60" height="40"/>
 <img src="https://img.shields.io/badge/Nessus-007ACC?style=for-the-badge&logo=nessus&color=000000" alt="Nessus" width="60" height="40"/>
+<img src="https://img.shields.io/badge/John_the_Ripper-007ACC?style=for-the-badge&logo=john-the-ripper&color=000000" alt="John the Ripper" width="60" height="40"/>
       
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" width="60" height="40" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" width="60" height="40" />
