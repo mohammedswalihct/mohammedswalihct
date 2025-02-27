@@ -42,7 +42,7 @@ Cyber Security Intern @ Infocom
       
 <img src="https://github.com/mohammedswalihct/my_portfolio/blob/0ed079f1c704b52784312f990617bfa6695362a3/Image/Icons/Python.png" alt="Python" width="80" height="50"/>
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" width="80" height="50"/>
+<img src="https://github.com/mohammedswalihct/my_portfolio/blob/4218c0f79e84f676ac02c97dce664f87d1671498/Image/Icons/Linux.png" alt="Linux" width="80" height="50"/>
 
 <img src="https://github.com/mohammedswalihct/my_portfolio/blob/846d64cf587cabd1c36d494344d39f90c0f5a0e5/Image/Icons/Git.png" alt="Git" width="80" height="50"/>
 
@@ -50,7 +50,7 @@ Cyber Security Intern @ Infocom
 
 <img src="https://github.com/mohammedswalihct/my_portfolio/blob/b20f0ffd638ea3d1345f3da6939302b2a71c31b5/Image/Icons/C.png" alt="C" width="80" height="50"/>
 
-<img src="https://github.com/mohammedswalihct/my_portfolio/blob/b20f0ffd638ea3d1345f3da6939302b2a71c31b5/Image/Icons/SQL_2.png" alt="C" width="80" height="50"/>
+<img src="https://github.com/mohammedswalihct/my_portfolio/blob/b20f0ffd638ea3d1345f3da6939302b2a71c31b5/Image/Icons/SQL_2.png" alt="SQL" width="80" height="50"/>
 
 <img src="https://github.com/mohammedswalihct/my_portfolio/blob/31fb9e58fd739608623f649a5c2035ede8e599b3/Image/Icons/HTML5.png" alt="HTML5" width="80" height="50"/>
 
