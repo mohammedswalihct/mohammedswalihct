@@ -23,6 +23,8 @@ Cyber Security Intern @ Infocom
 <br>
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+![image alt](https://github.com/mohammedswalihct/my_portfolio/blob/f6610a38921ad93cac211f8b14d0a39d57ac17a2/Image/Icons/NMap.png)
       
 <img src="https://img.shields.io/badge/NMap-007ACC?style=for-the-badge&logo=nmap&color=000000" alt="NMap" width="80" height="50"/>
 
