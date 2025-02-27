@@ -25,8 +25,6 @@ Cyber Security Intern @ Infocom
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
 <img src="https://github.com/mohammedswalihct/my_portfolio/blob/f6610a38921ad93cac211f8b14d0a39d57ac17a2/Image/Icons/NMap.png" alt="NMap" width="80" height="50" />
-      
-<img src="https://img.shields.io/badge/NMap-007ACC?style=for-the-badge&logo=nmap&color=000000" alt="NMap" width="80" height="50"/>
 
 <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" width="80" height="50"/>
 
