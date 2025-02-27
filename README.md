@@ -33,7 +33,7 @@ Cyber Security Intern @ Infocom
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 <img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/c44c85bf2ece10d4f57993415806482a3c3b7b40/Image/logo/NMap.png" alt="NMap" width="80" height="60" />
 
-<img src="https://github.com/mohammedswalihct/my_portfolio/blob/88bec14e3dc7406500b72aa3c1c1bd8f322dc319/Image/logo/Metasploit.png" alt="Metasploit" width="80" height="60"/>
+<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/12cdf0834d06a631e9a1118076aade30d0ffd6fa/Image/logo/Metasploit.png" alt="Metasploit" width="80" height="60"/>
 
 <img src="https://github.com/mohammedswalihct/my_portfolio/blob/0f6190d56396df84f623310fd4d23341150563a2/Image/logo/WireShark.png" alt="Wireshark" width="80" height="60"/>
 
