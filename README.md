@@ -23,7 +23,6 @@ Cyber Security Intern @ Infocom
 <br>
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
 <img src="https://github.com/mohammedswalihct/my_portfolio/blob/f6610a38921ad93cac211f8b14d0a39d57ac17a2/Image/Icons/NMap.png" alt="NMap" width="80" height="50" />
 
 <img src="https://github.com/mohammedswalihct/my_portfolio/blob/88bec14e3dc7406500b72aa3c1c1bd8f322dc319/Image/Icons/Metasploit.png" alt="Metasploit" width="80" height="50"/>
@@ -60,7 +59,7 @@ Cyber Security Intern @ Infocom
 
 <img src="https://github.com/mohammedswalihct/my_portfolio/blob/2c3bec6b356877c60293b2a8fd66685ef3dd68f9/Image/Icons/Kali%20Linux.png" alt="Kali Linux" width="80" height="50"/>
 
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" width="80" height="50"/>
+<img src="https://github.com/mohammedswalihct/my_portfolio/blob/2b91b0b0b51a3d629ba118933ee4569c32b0173f/Image/Icons/VS%20Code.png" alt="VS Code" width="80" height="50"/>
 </div>
 </div>
 
