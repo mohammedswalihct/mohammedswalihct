@@ -41,23 +41,23 @@ Cyber Security Intern @ Infocom
       
 <img src="https://github.com/mohammedswalihct/my_portfolio/blob/0ed079f1c704b52784312f990617bfa6695362a3/Image/Icons/Python.png" alt="Python" width="80" height="60"/>
 
-<img src="https://github.com/mohammedswalihct/my_portfolio/blob/4218c0f79e84f676ac02c97dce664f87d1671498/Image/Icons/Linux.png" alt="Linux" width="80" height="60"/>
-
-<img src="https://github.com/mohammedswalihct/my_portfolio/blob/846d64cf587cabd1c36d494344d39f90c0f5a0e5/Image/Icons/Git.png" alt="Git" width="80" height="50"/>
-
-<img src="https://github.com/mohammedswalihct/my_portfolio/blob/846d64cf587cabd1c36d494344d39f90c0f5a0e5/Image/Icons/GitHub.png" alt="Github" width="80" height="70"/>
-
 <img src="https://github.com/mohammedswalihct/my_portfolio/blob/b20f0ffd638ea3d1345f3da6939302b2a71c31b5/Image/Icons/C.png" alt="C" width="80" height="60"/>
-
-<img src="https://github.com/mohammedswalihct/my_portfolio/blob/b20f0ffd638ea3d1345f3da6939302b2a71c31b5/Image/Icons/SQL_2.png" alt="SQL" width="80" height="60"/>
 
 <img src="https://github.com/mohammedswalihct/my_portfolio/blob/31fb9e58fd739608623f649a5c2035ede8e599b3/Image/Icons/HTML5.png" alt="HTML5" width="80" height="60"/>
 
 <img src="https://github.com/mohammedswalihct/my_portfolio/blob/2b014362850d1092f482a23f1a171c644756f1f4/Image/Icons/CSS3.png" alt="CSS3" width="60" height="60"/>
 
+<img src="https://github.com/mohammedswalihct/my_portfolio/blob/4218c0f79e84f676ac02c97dce664f87d1671498/Image/Icons/Linux.png" alt="Linux" width="80" height="60"/>
+
 <img src="https://github.com/mohammedswalihct/my_portfolio/blob/a438704fab9bb74bb3fc4a4ee504eb38a8f80a59/Image/Icons/Ubuntu_1.png" alt="Ubuntu" width="80" height="60"/>
 
 <img src="https://github.com/mohammedswalihct/my_portfolio/blob/2c3bec6b356877c60293b2a8fd66685ef3dd68f9/Image/Icons/Kali%20Linux.png" alt="Kali Linux" width="80" height="60"/>
+
+<img src="https://github.com/mohammedswalihct/my_portfolio/blob/846d64cf587cabd1c36d494344d39f90c0f5a0e5/Image/Icons/Git.png" alt="Git" width="80" height="50"/>
+
+<img src="https://github.com/mohammedswalihct/my_portfolio/blob/846d64cf587cabd1c36d494344d39f90c0f5a0e5/Image/Icons/GitHub.png" alt="Github" width="80" height="70"/>
+
+<img src="https://github.com/mohammedswalihct/my_portfolio/blob/b20f0ffd638ea3d1345f3da6939302b2a71c31b5/Image/Icons/SQL_2.png" alt="SQL" width="80" height="60"/>
 
 <img src="https://github.com/mohammedswalihct/my_portfolio/blob/2b91b0b0b51a3d629ba118933ee4569c32b0173f/Image/Icons/VS%20Code.png" alt="VS Code" width="80" height="60"/>
 </div>
