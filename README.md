@@ -65,7 +65,6 @@ I specialize in threat analysis, incident response, security monitoring, and ris
 </div>
 </div>
 
-
 ## Projects
 - Demo Project_1
 - Demo Project_2
