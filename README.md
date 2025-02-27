@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm MOHAMMED SWALIH</h1>
-<h3 align="left">An Ethical Hacker and Cyber Security Analyst with expertise in Vulnerability Assessment and Pentesting.</h3>
+<h3 align="left">An ______________ and ______________________ with expertise in Vulnerability Assessment and Pentesting.</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedswalihct&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedswalihct" /> </p>
 
 - 🔭 I’m currently working at **Grand Motors**
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently learning **______________**
 
 - 💬 Ask me about **Vulnerabilities and Pentesting**
 
