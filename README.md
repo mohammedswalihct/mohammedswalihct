@@ -15,55 +15,70 @@ I specialize in threat analysis, incident response, security monitoring, and ris
 - Higher Secondary Education | NSS Higher Secondary School (_March 2017_)
 - High School Education | Rahmath Public School (_March 2015_)
 
-## Work Experience
--  Cyber Security Analyst @ **FX Solutions**
--  Cyber Security Intern @ **Infocom**
+## 💼 Skills & Expertise
 
-<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
-<br>
-<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-      
-<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/c44c85bf2ece10d4f57993415806482a3c3b7b40/Image/logo/NMap.png" alt="NMap" width="80" height="60" />
+- **Penetration Testing:** Web application, network, and infrastructure penetration testing
+- **Vulnerability Assessment:** Scanning and identifying potential security risks
+- **Exploit Development:** Writing proof-of-concept (PoC) exploits for security vulnerabilities
+- **Security Audits:** Comprehensive security audits and code reviews
+- **Bug Bounty Hunting:** Identifying and reporting vulnerabilities in live systems responsibly
+- **Cryptography:** Encryption algorithms, protocols, and secure key management
+- **Penetration Testing:** Web application, network, and infrastructure assessments
+- **Vulnerability Assessment:** Identifying and fixing security flaws in systems
+- **Exploit Development:** Creating proof-of-concept exploits to demonstrate vulnerabilities
+- **Bug Bounty Hunting:** Responsible vulnerability disclosure in live systems
+- **Security Audits:** Comprehensive security reviews of code, infrastructure, and practices
+- **Threat Modeling & Risk Analysis**
+- **Cryptography:** Strong understanding of encryption, hashing, and secure protocols
+- **Social Engineering:** Understanding and mitigating human-based vulnerabilities
+- **Threat Analysis & Detection:** Identifying and responding to potential security incidents
+- **Incident Response & Management:** Handling security breaches and minimizing damage
+- **Vulnerability Management:** Scanning, analyzing, and mitigating vulnerabilities
+- **Security Monitoring:** Implementing SIEM tools (e.g., Splunk, ELK) to monitor for threats
+- **Network Security:** Configuring and securing firewalls, VPNs, and IDS/IPS
+- **Risk Management:** Assessing and mitigating cybersecurity risks for systems and networks
+- **Penetration Testing & Vulnerability Assessments**
+- **Security Audits & Compliance:** Reviewing system and application security for industry standards (e.g., ISO 27001, NIST, GDPR)
+- **Automation & Scripting:** Writing scripts in Python, PowerShell, and Bash for automating security tasks
+- **Threat Detection & Incident Response:** Identifying threats and responding to security incidents.
+- **Vulnerability Management:** Scanning, evaluating, and remediating security vulnerabilities.
+- **Risk Assessment & Mitigation:** Evaluating and minimizing security risks to assets and data.
+- **Security Monitoring:** Monitoring systems and networks using SIEM tools to detect intrusions.
+- **Security Audits & Compliance:** Reviewing security protocols and ensuring compliance with frameworks like NIST, GDPR, and ISO 27001.
+- **Penetration Testing & Security Assessments:** Conducting authorized penetration tests and security assessments.
+- **Network & Application Security:** Configuring and securing firewalls, VPNs, IDS/IPS, and secure web applications.
+- **Automation & Scripting:** Writing scripts in Python, PowerShell, and Bash for automating repetitive security tasks.
 
-<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/12cdf0834d06a631e9a1118076aade30d0ffd6fa/Image/logo/Metasploit.png" alt="Metasploit" width="80" height="60"/>
 
-<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/a1d5df2471e861be6810069bf15550bd3b2e336c/Image/logo/WireShark.png" alt="Wireshark" width="80" height="60"/>
+## 🛠️ Tools & Technologies
 
-<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/11b4950f92661590206eb828966f9db6113e7b12/Image/logo/BurpSuit.png" alt="Burp Suite" width="80" height="60"/>
-
-<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/97a782b3d6c9a03ac7b95b9e08ae8ff111629d72/Image/logo/Nessus.png" alt="Nessus" width="80" height="60"/>
-
-<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/a951e69bb2b7a53b529092fff037019933ea7fb8/Image/logo/JohnRipper.png" alt="John the Ripper" width="80" height="50"/>
-
-<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/5a8b2d1cfe486263fc9141f5078234a60b61625e/Image/logo/HashCat.png" alt="Hashcat" width="80" height="60"/>
-
-<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/1b6396497fd4d45b22301748ea5f0f7385b3c91d/Image/logo/Nikto.png" alt="Nikto" width="80" height="60"/>
-      
-<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/fc594c7ffd497308406d66280138b3a65f4d7ec8/Image/logo/Python.png" alt="Python" width="80" height="60"/>
-
-<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/c44c85bf2ece10d4f57993415806482a3c3b7b40/Image/logo/C.png" alt="C" width="80" height="60"/>
-
-<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/c44c85bf2ece10d4f57993415806482a3c3b7b40/Image/logo/HTML5.png" alt="HTML5" width="80" height="60"/>
-
-<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/c44c85bf2ece10d4f57993415806482a3c3b7b40/Image/logo/CSS3.png" alt="CSS3" width="60" height="60"/>
-
-<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/c44c85bf2ece10d4f57993415806482a3c3b7b40/Image/logo/Linux.png" alt="Linux" width="80" height="60"/>
-
-<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/c44c85bf2ece10d4f57993415806482a3c3b7b40/Image/logo/Ubuntu.png" alt="Ubuntu" width="80" height="60"/>
-
-<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/c44c85bf2ece10d4f57993415806482a3c3b7b40/Image/logo/KaliLinux.png" alt="Kali Linux" width="80" height="60"/>
-
-<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/c44c85bf2ece10d4f57993415806482a3c3b7b40/Image/logo/Git.png" alt="Git" width="80" height="50"/>
-
-<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/c44c85bf2ece10d4f57993415806482a3c3b7b40/Image/logo/GitHub.png" alt="Github" width="80" height="70"/>
-
-<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/01dc2f2577860d23cbe3d88e2038ee90680725a7/Image/logo/SQL.png" alt="SQL" width="80" height="60"/>
-
-<img src="https://github.com/mohammedswalihct/mohammedswalihct/blob/c44c85bf2ece10d4f57993415806482a3c3b7b40/Image/logo/VSCode.png" alt="VS Code" width="80" height="60"/>
-
-</div>
-</div>
+- **Kali Linux** for penetration testing and ethical hacking tools
+- **Burp Suite**, **OWASP ZAP** for web application security testing
+- **Metasploit** for exploit development
+- **Nmap** for network scanning
+- **Wireshark** for packet analysis
+- **Wi-Fi Hacking Tools** like Aircrack-ng
+- **Penetration Testing Frameworks:** Kali Linux, Metasploit, Burp Suite, OWASP ZAP
+- **Network Tools:** Nmap, Wireshark, Netcat
+- **Web Application Security:** SQLMap, Nikto, Gobuster, Hydra
+- **Programming & Scripting Languages:** Python, Bash, JavaScript, PHP, Ruby
+- **Operating Systems:** Linux (Ubuntu, Kali), Windows, macOS
+- **Version Control:** Git, GitHub
+- **SIEM Tools:** Splunk, ELK Stack, IBM QRadar
+- **Vulnerability Scanners:** Nessus, OpenVAS, Qualys
+- **Firewalls & IDS/IPS:** pfSense, Suricata, Snort
+- **Networking & Protocols:** TCP/IP, DNS, HTTP(S), SSL/TLS, VPN, Proxy Servers
+- **Operating Systems:** Linux (Ubuntu, CentOS), Windows, macOS
+- **Scripting Languages:** Python, PowerShell, Bash, Groovy
+- **Security Frameworks & Standards:** NIST, CIS, ISO 27001, GDPR
+- **SIEM Tools:** Splunk, IBM QRadar, ELK Stack
+- **Vulnerability Scanners:** Nessus, OpenVAS, Qualys
+- **IDS/IPS Tools:** Snort, Suricata, Zeek
+- **Network Security Tools:** Nmap, Wireshark, Netcat
+- **Firewalls & VPNs:** pfSense, Cisco ASA, OpenVPN
+- **Penetration Testing Tools:** Metasploit, Burp Suite, Nikto
+- **Scripting Languages:** Python, PowerShell, Bash
+- **Operating Systems:** Linux (Ubuntu, CentOS), Windows, macOS
 
 ## Projects
 - Demo Project_1
